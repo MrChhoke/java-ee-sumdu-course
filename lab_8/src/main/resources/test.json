@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Gerald",
+    "Race": "ELF",
+    "stats:": {
+      "charisma": 12,
+      "constitution": 17,
+      "dexterity": 13,
+      "intelligence": 11,
+      "strength": 12,
+      "wisdom": 10
+    }
+  }
+]
