@@ -1,3 +1,8 @@
 /.idea
 /lab_4/target/*
 */target/*
+.gitignore
+*/.gradle
+*/out
+*.iml
+/lab_8/src/main/java/ua/bondar/controller/MainControllerGUI.java
